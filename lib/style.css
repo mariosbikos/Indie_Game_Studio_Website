@@ -1,0 +1,33 @@
+html, body,div{
+    
+    padding: 0;
+    margin: 0 auto;
+    border-right: groove 2px black;
+    	
+}
+
+#enchant-stage{
+	z-index:50;
+}
+
+
+#myVid1{
+	
+	z-index:100;
+	display:none;
+	
+}
+#myVid2{
+	
+	z-index:100;
+	display:none;
+	
+}
+
+
+#myVid3{
+	
+	z-index:100;
+	display:none;
+	
+}
